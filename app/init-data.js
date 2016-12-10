@@ -1,6 +1,6 @@
 var mongoose = require('mongoose')
 var db = require('./models/graph-schema');
-// Initialize the database with static data for basic graphs on front page
+// Initialize the database with static data for basic graphs
 var init = function () {
   db.Graph.insert({
     location: 'Alabama',
