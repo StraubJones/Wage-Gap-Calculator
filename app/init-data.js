@@ -1,5 +1,5 @@
 var mongoose = require('mongoose')
-var db = require('./models/graph-schema');
+var db = require('./models/config');
 // Initialize the database with static data for basic graphs
 var init = function () {
   db.Graph.insert({
@@ -807,6 +807,7 @@ var init = function () {
     gender: 'Female',
     occupation: 'Material moving occupations'
   })
+  console.log('Done init');
 }
 
 module.exports = init;

@@ -43,7 +43,7 @@ In that vein, some **future features** we were hoping to add but have not yet ha
     - [ ] Educational background
     - [ ] English as native versus second language
     - [ ] Sexual orientation
-    - [ ] Socio-economic class (as a child)
+    - [ ] Socio-economic class (as a child, e.g. for comparing class mobility)
     - and more...
 - [ ] Constructing complex queries to the US Census API
   - [ ] Also cacheing the data from common queries to load faster (ideally using an LRU system)
@@ -51,6 +51,17 @@ In that vein, some **future features** we were hoping to add but have not yet ha
   - [ ] Storage of the data for said graphs
   - [ ] The ability to upvote/downvote graphs
 - [ ] The ability to sign in with and share graphs on social media outlets
+
+### Team
+
+  1. Original Team:
+  - Product Owner (as Agile role): J. Christian Straubhaar-Jones
+  - Scrum Master: Calvin Kniffin
+  - Team Members:
+    - Brett Nelson
+    - Zach Raymer
+
+  2. Refactor Team: J. Christian Straubhaar-Jones
 
 ### Contributing
 

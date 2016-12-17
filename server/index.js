@@ -7,7 +7,7 @@ var Graph = require('../app/models/config.js');
 // var Graph = require('../app/models/graph-schema.js');
 var app = express();
 var mongoose = require('mongoose');
-
+var init = require('../app/init-data.js');
 
 app.use(bodyParser.json());
 app.use(express.static('client'));
@@ -41,7 +41,7 @@ app.use(express.static('client'));
 //
 // var Graph = mongoose.model('Graph', graphSchema, 'Graph');
 
-
+init();
 
 
 // pretty sure express.static handles this anyway
