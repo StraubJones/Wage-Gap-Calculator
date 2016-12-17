@@ -7,6 +7,7 @@ A tool for visualizing data on income disparity between various groups
 - Clone or download the repo
 - Navigate to the repo root in the terminal
 - Run `$npm install`
+- Run `$mongod`
 - Run `$npm start`
 - Navigate in your browser to http://localhost:4040 (or the number specified by your PORT environment variable)
 
