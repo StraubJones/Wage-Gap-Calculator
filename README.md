@@ -56,11 +56,11 @@ In that vein, some **future features** we were hoping to add but have not yet ha
 ### Team
 
   1. Original Team:
-  - Product Owner (as Agile role): J. Christian Straubhaar-Jones
-  - Scrum Master: Calvin Kniffin
-  - Team Members:
-    - Brett Nelson
-    - Zach Raymer
+    - Product Owner (as Agile role): J. Christian Straubhaar-Jones
+    - Scrum Master: Calvin Kniffin
+    - Team Members:
+      - Brett Nelson
+      - Zach Raymer
 
   2. Refactor Team: J. Christian Straubhaar-Jones
 
