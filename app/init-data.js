@@ -1,7 +1,9 @@
-var mongoose = require('mongoose')
+var mongoose = require('mongoose');
 var db = require('./models/config');
+var Graph = require('./models/graph-schema');
 // Initialize the database with static data for basic graphs
 var init = function () {
+  console.log('db:',db)
   db.Graph.insert({
     location: 'Alabama',
     income: 34804,
@@ -809,5 +811,4 @@ var init = function () {
   })
   console.log('Done init');
 }
-
 module.exports = init;
