@@ -2,6 +2,8 @@
 
 A tool for visualizing data on income disparity between various groups
 
+## Note: this repo is now outdated, for newest work see: https://github.com/StraubJones/Wage-Gap-Calculator-App 
+
 ### Installation
 
 - Clone or download the repo
